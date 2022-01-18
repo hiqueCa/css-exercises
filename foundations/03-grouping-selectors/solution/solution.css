@@ -1,3 +1,18 @@
+/*The same results could be achieved by using the chained selector, as follows::after
+
+.button {
+  ...;
+}
+
+.button.first {
+  ...
+}
+
+.button.second {
+  ...
+}
+*/
+
 .inverted,
 .fancy {
   font-family: Helvetica, "Times New Roman", sans-serif;
